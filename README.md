@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kweku</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [hubsoccerleague platform](https://hubsoccerleague.azurewebsites.net/)
+- 🔭 I’m currently working on [my personal website](http://kwekuaboagye.me/)
 
-- 🌱 I’m currently learning **front-end frameworks & UI**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kweku007](https://github.com/Kweku007)
 
-- 💬 Ask me about **rails, flask**
+- 💬 Ask me about **Python or anything related to backend engineering in general**
 
 - 📫 How to reach me **abeaboagye7@gmail.com**
 
