@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kweku</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [my personal website](http://kwekuaboagye.me/)
+- 🔭 Check out [my personal website](http://kwekuaboagye.me/)
 
 - 🌱 I’m currently learning **Flutter**
 
