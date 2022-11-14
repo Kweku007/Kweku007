@@ -3,7 +3,7 @@
 
 - 🔭 Check out [my personal website](http://kwekuaboagye.me/)
 
-- 🌱 I’m currently learning more about **Full Stack Development**
+- 🌱 I’m currently learning more about **TypeScript**
 
 - 👯 I’m looking to collaborate on **Open Source or any fun projects**
 
