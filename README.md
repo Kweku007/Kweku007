@@ -3,8 +3,6 @@
 
 - 🔭 Check out [my personal website](http://kwekuaboagye.me/)
 
-- 🌱 I’m currently learning more about **TypeScript & GQL**
-
 - 👯 I’m looking to collaborate on **Open Source or any fun projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kweku007](https://github.com/Kweku007)
